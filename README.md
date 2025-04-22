@@ -2,6 +2,6 @@
 
 Contributors:
 
-Neha Ann Nainan
-Vaibhav Rouduri
-Aishwarya Ghaiwat
+1. Neha Ann Nainan
+2. Vaibhav Rouduri
+3. Aishwarya Ghaiwat
